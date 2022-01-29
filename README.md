@@ -34,6 +34,9 @@ Sample input data can be found in the same folder.
 ![Alt flow diagram of the geothermal ORC](./flowdiagram.svg)
 *Flow diagram of the geothermal ORC plant (a) and Ts-diagram of the process (b)*
 
+**Please note: You will find all input parameters as well as all equations applied in the models**
+**of the example runs in the [pdf model report](/scripts/model_report/model_report.pdf)!**
+
 The table below highlights the design parameters of the system.
 
 | Item                | Parameter            | Symbol                  | Value | Unit  |
@@ -120,14 +123,14 @@ Choose from:
 ## Reference
 
 An archived version of this repository can be found at zenodo:
-https://zenodo.org/record/5094931. For more information also see the
+https://zenodo.org/record/5094930. For more information also see the
 respective publication. A link will be added here once published.
 
 If you have any questions or suggestions feel free to contact us anytime!
 
 ## License
 
-Copyright (c) 2021 Francesco Witte, Chaofan Chen
+Copyright (c) 2022 Francesco Witte, Chaofan Chen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
